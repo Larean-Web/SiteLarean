@@ -19,3 +19,4 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         port: 21
         server-dir: /
+        local-dir: ./dist/site-larean/
